@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working onBlockchain<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working onBlockchain<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Data Structures & Algorithm<br>🌱 I’m currently learning Data Structures<br>💬 Ask me about me<br>⚡ Fun fact "The term 'bug' in coding dates back to 1947 when an actual moth was found in a computer, causing a malfunction. Grace Hopper, a pioneering computer scientist, recorded it in a logbook, and the term ‘debugging’ was born!"
 
 
 # 💻 Tech Stack:
